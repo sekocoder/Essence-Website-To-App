@@ -1,6 +1,6 @@
 # Essence App
-Essence Web-V App,br.
-Used java to convert the Essence website into an android app with the help of android studio
+Essence Web-View App <br> 
+Used java to convert the Essence website into an android app with the help of android studio <br>
 
 # Essence Website By Team Pilluzy 
 Website link -> [Click Here](https://essencefest.netlify.app/)
