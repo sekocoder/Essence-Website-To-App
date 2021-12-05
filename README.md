@@ -5,9 +5,9 @@ Used java to convert the Essence website into an android app with the help of an
 # Essence Website By Team Pilluzy 
 Website link ->[Click Here](https://essencefest.netlify.app/)
  <br>
-Essense websiteGithub repo link ->![Click Here](https://github.com/shreshthgoyal/Essence-Frontend)
+Essense websiteGithub repo link ->[Click Here](https://github.com/shreshthgoyal/Essence-Frontend)
  <br>
-## Team Pilluzy - 
+### Team Pilluzy 
  [Shreshth Goyal](https://github.com/shreshthgoyal)
  <br>
  [Rishabh Kumar](https://github.com/rish78)
