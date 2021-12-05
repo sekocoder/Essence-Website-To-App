@@ -7,7 +7,7 @@ Website link -> [Click Here](https://essencefest.netlify.app/)
  <br>
 Essense website github repo link -> [Click Here](https://github.com/shreshthgoyal/Essence-Frontend)
  <br>
-### Team Pilluzy 
+### Team Pilluzy - 
  [Shreshth Goyal](https://github.com/shreshthgoyal)
  <br>
  [Rishabh Kumar](https://github.com/rish78)
